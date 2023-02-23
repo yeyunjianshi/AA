@@ -1,5 +1,6 @@
 {
   "name": "aa",
+  "packageManager": "pnpm@7.26.2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
